@@ -1,0 +1,29 @@
+Procedural Generation in Game Design edited by Tanya X. Short, Tarn Adams
+https://books.google.com/books?id=-ZcnDwAAQBAJ&pg=PT156&lpg=PT156&dq=procedurally+generated+AI+characters&source=bl&ots=3uMIGu4EPQ&sig=FhSpul5s4rC52Ijd-ZPLA47Y0lg&hl=en&sa=X&ved=0ahUKEwiBsZ7Guo_ZAhUBnFkKHZPFA3AQ6AEIXjAL#v=onepage&q=procedurally%20generated%20AI%20characters&f=false
+
+Game Dynamics: Best Practices in Procedural and Dynamic Game Content Generation
+edited by Oliver Korn, Newton Lee
+https://books.google.com/books?id=W7-RDgAAQBAJ&printsec=frontcover&dq=Procedural+Generation+AI+characters&hl=en&sa=X&ved=0ahUKEwj1zKLAu4_ZAhVPrVkKHQ7-DNYQ6AEINDAC#v=onepage&q=Procedural%20Generation%20AI%20characters&f=false
+
+//Procedural Characters and the Coming Animation Technology Revolution
+//http://aigamedev.com/open/editorial/animation-revolution/
+
+Procedural Content Generation in the Game Industry (PDF)
+Alba Amato
+
+Algorithms for Procedural Content Generation
+http://pcg.wikidot.com/category-pcg-algorithms
+
+
+//Creative AI: Procedural generation takes game development to new worlds
+https://newatlas.com/creative-ai-procedural-game-development-angelina/35874/
+
+//Procedural Character Generation Implementing Reference Fitting and Principal Components Analysis
+Aalborg University (PDF)
+http://projekter.aau.dk/projekter/files/61070846/1181291417.pdf
+
+//6 Techniques for Leveraging AI in Content Generation
+https://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for
+
+//AI For Generated Worlds
+https://www.gdcvault.com/play/1023418/AI-For-Generated

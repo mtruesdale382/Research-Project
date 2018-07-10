@@ -1,0 +1,14 @@
+
+Specify a Series of Parameters //sliders
+(list to hold parameters)
+scaling
+	-height
+	-weight
+	-width
+color
+	-race
+	-etc
+Allow User to to provide values or allow program
+(randomize values)
+
+
